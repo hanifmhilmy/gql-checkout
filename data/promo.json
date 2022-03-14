@@ -1,0 +1,29 @@
+[
+    {
+        "promo_id": "P1",
+        "sku": "43N23P",
+        "min_purchase": 1,
+        "free_item_sku": "234234",
+        "free_item_qty": 1,
+        "discount_percentage": 0.0,
+        "promo_qty": 1 
+    },
+    {
+        "promo_id": "P2",
+        "sku": "120P90",
+        "min_purchase": 3,
+        "free_item_sku": "120P90",
+        "free_item_qty": 1,
+        "discount_percentage": 0.0,
+        "promo_qty": 1 
+    },
+    {
+        "promo_id": "P3",
+        "sku": "A304SD",
+        "min_purchase": 4,
+        "free_item_sku": "",
+        "free_item_qty": 0,
+        "discount_percentage": 10.0,
+        "promo_qty": 1 
+    }
+]
